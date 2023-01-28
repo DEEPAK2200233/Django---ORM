@@ -10,12 +10,12 @@ Include your ER diagram here
 ## DESIGN STEPS
 
 ### STEP 1:
-
+create the django domain
 ### STEP 2:
-
+then from the the django.db import the models and then from the django.contribute import
+the admin
 ### STEP 3:
-
-Write your own steps
+then create your own model by defining the class and with the respective comments
 
 ## PROGRAM
 Model.py 
@@ -36,8 +36,6 @@ admin.site.register(Employee, EmployeeAdmin)
 
 ## OUTPUT
 ![model](orm.jpg)
-Include the screenshot of your admin page.
-
 
 ## RESULT
 program is excuted
